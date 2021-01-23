@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Container>
+<Name>Download-Count</Name>
+<Beta>True</Beta>
+<Changes>
+</Changes>
+<Category></Category>
+<Overview>Unraid API</Overview>
+<Support>williambuswellcampbell@gmail.com</Support>
+<Description>Download Count</Description>
+<Registry>https://registry.laputr.co.uk/groupserverprojects/download-count/master:x86-latest</Registry>
+<Repository>willnnotdan/unraid-api</Repository>
+<BindTime>true</BindTime>
+<Privileged>false</Privileged>
+<Networking>
+<Mode>bridge</Mode>
+<Publish>
+<Port>
+<HostPort>10000</HostPort>
+<ContainerPort>3000</ContainerPort>
+<Protocol>tcp</Protocol>
+</Port>
+</Publish>
+</Networking>
+<Environment>
+<Variable>
+<Name></Name>
+<Value></Value>
+</Variable>
+</Environment>
+<Data>
+</Data>
+<WebUI>http://[IP]:[PORT:10000]</WebUI>
+<Banner></Banner>
+<Icon></Icon>
+</Container>
