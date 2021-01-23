@@ -9,7 +9,7 @@
 <Support>williambuswellcampbell@gmail.com</Support>
 <Description>Download Count</Description>
 <Registry>https://registry.laputr.co.uk/groupserverprojects/download-count/master:x86-latest</Registry>
-<Repository>willnnotdan/unraid-api</Repository>
+<Repository>https://registry.laputr.co.uk/groupserverprojects/download-count/master:x86-latest</Repository>
 <BindTime>true</BindTime>
 <Privileged>false</Privileged>
 <Networking>
