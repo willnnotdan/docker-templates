@@ -8,7 +8,7 @@
 <Overview>Unraid API</Overview>
 <Support>williambuswellcampbell@gmail.com</Support>
 <Description>Download Count</Description>
-<Registry>https://registry.laputr.co.uk/groupserverprojects/download-count/master:x86-latest</Registry>
+<Registry>registry.laputr.co.uk/groupserverprojects/download-count/master:x86-latest</Registry>
 <Repository>https://registry.laputr.co.uk/groupserverprojects/download-count/master:x86-latest</Repository>
 <BindTime>true</BindTime>
 <Privileged>false</Privileged>
